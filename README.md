@@ -1,14 +1,21 @@
 Project Overview
-Title: Fine-tuning Multiclassification 13 Cancer Symtoms
-Description: This study introduces Symptom-BERT, a pre-trained language model designed to improve the identification of cancer symptoms from clinical notes. Our findings suggest that Symptom-BERT outperforms existing BERT models in this task. The development represents a promising healthcare direction for AI, potentially enhancing patient symptom management and self-care outcomes. 
-Project Structure:
+Title: Fine-tuning Multiclassification for 13 Cancer Symptoms
+
+Description: This project introduces Symptom-BERT, a pre-trained language model specifically designed to enhance the identification of cancer symptoms from clinical notes. Our research demonstrates that Symptom-BERT outperforms existing BERT models in this task. This development marks a promising direction for AI in healthcare, with potential implications for improving patient symptom management and self-care outcomes.
+
+Project Structure
 00-Chunking and Cleaning and Preprocessing Dataset.ipynb
 Purpose: This notebook handles data preprocessing, chunking, and cleaning for the dataset.
 01-Analysis of Clinical Note and GPT based note and use case.ipynb
 Purpose: This notebook analyzes clinical notes, comparing standard notes and GPT-generated notes for specific use cases.
-02-Pre_Trained Symptom-BERT.ipynb: This notebook demonstrates how to use a pre-trained Symptom-BERT model.
+02-Pre_Trained Symptom-BERT.ipynb
+Purpose: This notebook demonstrates how to use a pre-trained Symptom-BERT model.
 03-Fine-tuning Multicalssification BERT models.ipynb
 Purpose: This notebook illustrates how to fine-tune BERT models for multiclass classification tasks.
 Usage
+Provide detailed instructions on how to run and reproduce the results of this project. Include relevant commands or scripts needed for execution.
+
 Contact
-Nahid-Zeinali@uiowa.edu
+For questions, please reach out to Nahid Zeinali at Nahid-Zeinali@uiowa.edu.
+
+Feel free to modify any parts as per your requirements!
