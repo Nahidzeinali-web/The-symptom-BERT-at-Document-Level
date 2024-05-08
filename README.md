@@ -1,5 +1,5 @@
 Project Overview
-Title: Fine-tuning Multiclassification for 13 Cancer Symptoms
+Title: Symptom-BERT: Enhancing Cancer Symptom Detection in EHR Clinical Notes
 
 Description: This project introduces Symptom-BERT, a pre-trained language model specifically designed to enhance the identification of cancer symptoms from clinical notes. Our research demonstrates that Symptom-BERT outperforms existing BERT models in this task. This development marks a promising direction for AI in healthcare, with potential implications for improving patient symptom management and self-care outcomes.
 
