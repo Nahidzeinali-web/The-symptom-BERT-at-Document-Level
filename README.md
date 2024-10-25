@@ -26,3 +26,7 @@ Purpose: This notebook illustrates how to fine-tune BERT models for multiclass c
 Contact
 For questions, please reach out to Nahid Zeinali at Nahid-Zeinali@uiowa.edu.
 
+Reference: 
+https://pubmed.ncbi.nlm.nih.gov/38789092/
+
+
